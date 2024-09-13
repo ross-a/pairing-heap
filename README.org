@@ -1,0 +1,10 @@
+# [[file:../../blender.org::*pairing heap][pairing heap:1]]
+:org_mode_options:
+#+STARTUP: inlineimages
+#+STARTUP: overview
+#+OPTIONS: ^:nil
+:END:
+pairing_heap
+Pairing heaps maintain min-heap property, all children node keys (.left) will be
+greater than parent node key.
+# pairing heap:1 ends here
